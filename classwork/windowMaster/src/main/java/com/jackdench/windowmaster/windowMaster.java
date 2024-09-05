@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author jackdench
  * email: jdench1989@gmail.com
  * date: 28/08/2024
- * purpose: My first Hello World program in an IDE
+ * purpose: A program implementing exception handling, input validation and variable parsing
  */
 public class windowMaster {
     public static void main(String [] args) {
